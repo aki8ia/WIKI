@@ -7,9 +7,13 @@ header{
 }
 .list{
     width: 170px;
-    height: 200px;
+    height: 130px;
     background-color: darkgray;
 }
 .list h1{
     font-size: 25px;
+}
+body{
+    background-image:url(../images/haikei1.jpg) ;
+    background-size: cover;
 }
