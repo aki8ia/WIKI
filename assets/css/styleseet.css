@@ -1,0 +1,15 @@
+header{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.logo{
+    font-size: 45px;
+}
+.list{
+    width: 170px;
+    height: 200px;
+    background-color: darkgray;
+}
+.list h1{
+    font-size: 25px;
+}
